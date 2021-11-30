@@ -1,0 +1,8 @@
+.example-card {
+  max-width: 400px;
+}
+
+.example-header-image {
+  background-image: url('https://i1.wp.com/valencia-international.com/wp-content/uploads/2013/07/handyortung-im-notfall.png');
+  background-size: cover;
+}
